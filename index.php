@@ -146,7 +146,7 @@
 
 
                                     <div class="pego-columns pego-columns6 fl home-element2">
-                                        <h1 class="page-heading">Lorem ipsum dolor <span>Lorem ipsum dolor sit.</span></h1>
+                                        <h1 class="page-heading">SAN MIGUEL <span>NUEVO POLO COMERCIAL DE LIMA</span></h1>
                                         <p class="page-summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                                     </div>
                                     <div class="pego-columns pego-columns3 fl colorsheme3  home-element3a">
@@ -181,11 +181,11 @@
 
                         <div class="folio-view-desc">
                             <div class="folio-view-categories">
-                                <a href="work.php#" rel="tag">Edificio</a>, <a href="work.php#" rel="tag">Interior</a>, <a href="work.php#" rel="tag">pools</a> </div>
+                                <a href="work.php#" rel="tag">AREAS COMUNES A1</a> </div>
                             <div class="folio-view-separator"> / </div>
                             <div class="folio-view-date">Mayo 11, 2018</div>
                             <div class="clear"></div>
-                            <h1 class="single-folio-view-title"><a href="work.php#" >Interior design in colors. Amazing!</a></h1>
+                            <h1 class="single-folio-view-title"><a href="work.php#" >COMODIDAD PARA TUS COLABORADORES</a></h1>
                             <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                         </div>
                     </div>
@@ -195,11 +195,11 @@
                     <div class="folio-view-item">
                         <div class="folio-view-desc">
                             <div class="folio-view-categories">
-                                <a href="work.php#" rel="tag">Edificio</a>, <a href="work.php#" rel="tag">Interior</a> </div>
+                                <a href="work.php#" rel="tag">Desde 42 mt2</a>, <a href="work.php#" rel="tag">¿Entrega Inmediata!</a> </div>
                             <div class="folio-view-separator"> / </div>
                             <div class="folio-view-date">Mayo 11, 2018</div>
                             <div class="clear"></div>
-                            <h1 class="single-folio-view-title"><a href="work.php#" >Awesome interior design just before holidays</a></h1>
+                            <h1 class="single-folio-view-title"><a href="work.php#" >Oﬁcinas A1 de acuerdo a las necesidades de tu empresa</a></h1>
                             <p class="folio-view-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
                         </div>
                         <a class="folio-view-thumb zoom" href="upload/folio17.jpg">
@@ -215,35 +215,35 @@
                 <div class="pego-columns pego-columns6 fl home-element6">
                     <div class="owl-carousel owl-theme portfolio-wrapper">
                          <div class="item">
-                            <h1 class="portfolio-title"><span>Colored</span> interior design</h1>
+                            <h1 class="portfolio-title"><span>CERCA</span> PLAZA SAN MIGUEL</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>1/6</p><img src="upload/folio121.jpg" class="portfolio-image" alt="&lt;span&gt;Colored&lt;/span&gt; interior design" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                             <div class="clear"></div>
                         </div>
                         <div class="item">
-                            <h1 class="portfolio-title"><span>Family house</span> in nature</h1>
+                            <h1 class="portfolio-title"><span>CERCA</span>METRO LA MARINA</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>2/6</p><img src="upload/folio17.jpg" class="portfolio-image" alt="&lt;span&gt;Family house&lt;/span&gt; in nature" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                             <div class="clear"></div>
                         </div>
                         <div class="item">
-                            <h1 class="portfolio-title"><span>Renovated</span> interior house</h1>
+                            <h1 class="portfolio-title"><span>30 MINUTOS</span> DEL AEROPUERTO</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>3/6</p><img src="upload/folio15.jpg" class="portfolio-image" alt="&lt;span&gt;Renovated&lt;/span&gt; interior house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                             <div class="clear"></div>
                         </div>
                         <div class="item">
-                            <h1 class="portfolio-title"><span>Modern and</span> square house</h1>
+                            <h1 class="portfolio-title"><span>20  MINUTOS</span> DEL CALLAO</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>4/6</p><img src="upload/folio10.jpg" class="portfolio-image" alt="&lt;span&gt;Modern and&lt;/span&gt; square house" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                             <div class="clear"></div>
                         </div>
                         <div class="item">
-                            <h1 class="portfolio-title"><span>Luxury</span> House in Bali</h1>
+                            <h1 class="portfolio-title"><span>PRÓXIMIDAD</span>AV. LA MARINA</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>5/6</p><img src="upload/folio1.jpg" class="portfolio-image" alt="&lt;span&gt;Luxury&lt;/span&gt; House in Bali" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                             <div class="clear"></div>
                         </div>
-                        <div class="item">
+                        <!-- <div class="item">
                             <h1 class="portfolio-title"><span>Villa</span> Los Angeles</h1>
                             <p class="portfolio-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</br>6/6</p><img src="upload/folio7.jpg" class="portfolio-image" alt="&lt;span&gt;Villa&lt;/span&gt; Los Angeles" /><a href="index.php#" class="portfolio-read-more">Cotiza Aqui</a>
                              <div class="clear"></div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 
