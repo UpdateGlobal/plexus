@@ -102,8 +102,8 @@
 
                                     <div id="layerslider_2_1456695929_1" class="ls-wp-container" style="width:1260px;height:580px;max-width:1260px;margin:0 auto;margin-bottom: 0px;">
                                         <div class="ls-slide" data-ls="slidedelay:8000;transition2d:75,79;"><img src="img/edificio.png" class="ls-bg" alt="slider1" /><img class="ls-l" style="top:0px;left:0px;white-space: nowrap;" data-ls="offsetxin:0;durationin:2000;easingin:linear;offsetxout:0;durationout:6000;easingout:linear;fadeout:false;scalexout:0;scaleyout:0;" src="img/edificio.png" alt="">
-                                            <p class="ls-l" style="top:166px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:60px;line-height:60px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">LOREN IPSUM<br>DOLOR SIT AMET CONSECTETUR.</p>
-                                            <p class="ls-l" style="top:300px;left:114px;font-weight: 400; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -1px;font-family:'Open Sans', sans-serif;;font-size:27px;line-height:28px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:2500;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">Lorem ipsum dolor sit amet consectetur, adipiscing elit proin nascetur.</p>
+                                            <p class="ls-l" style="top:185px;left:87px;font-weight: 700; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -2px;padding-left:20px;font-family:'Open Sans', sans-serif;;font-size:52px;line-height:52px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:1300;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">LOREN IPSUM<br>DOLOR SIT AMET CONSECTETUR.</p>
+                                            <p class="ls-l" style="top:300px;left:114px;font-weight: 400; text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.4); letter-spacing: -1px;font-family:'Open Sans', sans-serif;;font-size:25px;line-height:28px;color:#ffffff;white-space: nowrap;" data-ls="durationin:1500;delayin:2500;rotatein:20;rotatexin:30;scalexin:1.5;scaleyin:1.5;transformoriginin:left 50% 0;durationout:750;rotateout:20;rotatexout:-30;scalexout:0;scaleyout:0;transformoriginout:left 50% 0;">Lorem ipsum dolor sit amet consectetur, adipiscing elit proin nascetur.</p>
                                             <div class="ls-l" style="top:350px;left:114px;background: #000; padding: 20px 30px; font-weight: 700; text-transform: uppercase;; font-size: 13px; display: inline-block; color: #fff;white-space: nowrap;" data-ls="durationin:1500;delayin:3500;"><a href="index.php#" title="" target="_self" style="color: #fff;">Info Aqui</a>
                                             </div>
                                         </div>
@@ -156,8 +156,8 @@
                                         <a class="col-link" href="index.php#">
                                             <div class="page-vertical-alignment">
                                                 <div class="page-icon-wrapper">
-                                                    <div class="page-icon pe-7s-users"></div>
-                                                    <h1 class="page-title">Free consulting</h1></div>
+                                                    <div class="page-icon pe-7s-play"></div>
+                                                    <h1 class="page-title">¡REVISA<br>EL VIDEO!</h1></div>
                                             </div>
                                         </a>
                                     </div>
@@ -297,7 +297,12 @@
         <div class="footer">
             <img src="img/plexus.png">
             <p>PLEXUS ES UN EDIFICIO CORPORATIVO CON OFICINAS EN VENTA EN SAN MIGUEL EL NUEVO CENTRO EMPRESARIAL DE LIMA. AMPLIOS AMBIENTES, VISTA PANORAMICA</p>
-            
+            <div class="row img_foo">
+                <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
+                <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
+                <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
+                <a href="https://www.instagram.com/update.pe/" target="_blank"><span class="social"> <i class="fab fa-instagram"></i></span></a>
+            </div>
         </div>
         <div style="background-color: black;color: white; padding: 20px;" align="center">
             <p style="margin: 0px;color: white;">Update Global Marketing ©</p>
