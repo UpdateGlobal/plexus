@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
-    <title>PLEXUS</title>
+    <title>PLEXUS - EDIFICIO CORPORATIVO</title>
 
     <!-- for mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -249,15 +249,15 @@
 
 
                 <div class="pego-columns pego-columns12 fl home-element2" align="center" style="padding: 35px 40px 30px; height: 140px; background-color: black;">
-                    <h1 class="page-heading-2">porqué invertir en plexus <br><span>oficina en san miguel</span></h1>
+                    <h1 class="page-heading-2">NO ESPERES MÁS COMUNÍCATE <br><span>SOLICITA TU COTIZACIÓN AQUÍ</span></h1>
                 </div>  
 
                 <div class="about-wrapper">
                     <div class="pego-columns-auto-height pego-columns6 fl  about-element2"><img class="fl" src="img/window.png" alt=""></div>
                     
                     <div class="pego-columns-auto-height pego-columns6 fl about-element1 ">
-                        <h2 class="about-subtitle">la mejor ubicación para</h2>
-                        <h1 class="about-title">oficina en san miguel</h1>
+                        <h2 class="about-subtitle">BRÍNDANOS TUS DATOS Y</h2>
+                        <h1 class="about-title">TE CONTACTAMOS</h1>
                         <div class="form-style-8" align="center">
                           <form>
                             <input type="text" name="field1" placeholder="Nombre" />
@@ -296,16 +296,16 @@
         <!-- end container -->
         <div class="footer">
             <img src="img/plexus.png">
-            <p>PLEXUS ES UN EDIFICIO CORPORATIVO CON OFICINAS EN VENTA EN SAN MIGUEL EL NUEVO CENTRO EMPRESARIAL DE LIMA. AMPLIOS AMBIENTES, VISTA PANORAMICA</p>
+            <p>PLEXUS ES UN EDIFICIO CORPORATIVO EN EL NUEVO CENTRO EMPRESARIAL DE LIMA CON OFICINAS EN VENTA EN SAN MIGUEL AMPLIOS AMBIENTES, VISTA PANORÁMICA</p>
             <div class="row img_foo">
-                <a href="https://www.behance.net/ventas326d" target="_blank"><span class="social"> <i class="fab fa-behance"></i></span></a>
+                
                 <a href="https://www.linkedin.com/company/update-global-marketing" target="_blank"><span class="social"> <i class="fab fa-linkedin-in"></i></span></a>
                 <a href="https://www.facebook.com/updatemarketing/" target="_blank"><span class="social"> <i class="fab fa-facebook-f"></i></span></a>
-                <a href="https://www.instagram.com/update.pe/" target="_blank"><span class="social"> <i class="fab fa-instagram"></i></span></a>
+ 
             </div>
         </div>
         <div style="background-color: black;color: white; padding: 20px;" align="center">
-            <p style="margin: 0px;color: white;">Update Global Marketing ©</p>
+            <p style="margin: 0px;color: white;"> Desarrollado por Update Global Marketing</p>
         </div>
     </div>
     <!-- end container-wrapper -->
