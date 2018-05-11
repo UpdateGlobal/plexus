@@ -138,7 +138,7 @@
                                     <div class="clear"></div>
 
                                     <div class="pego-columns pego-columns12 fl home-element2" align="center" style="padding: 30px 40px 30px; height: 140px;">
-                                        <h1 class="page-heading">porqué invertir en plexus<span>oficina en san miguel</span></h1>
+                                        <h1 class="page-heading">porqué invertir en plexus<span>oficinas en san miguel</span></h1>
                                     </div>
 
 
